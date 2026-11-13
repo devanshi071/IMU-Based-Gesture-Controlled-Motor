@@ -66,7 +66,8 @@ The system operates through the following sequence:
 
 ### Block Diagram
 
-![System Block Diagram](Hardware/block_diagram.png)
+<img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/eb81ce17-d2b5-46d4-b0e1-bd6e30869ad1" />
+
 
 ---
 
